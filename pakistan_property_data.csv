@@ -1,0 +1,301 @@
+City,Area,Size (Marla),House Style,Bedrooms,Bathrooms,Garage,Garden,Year Built,Price (PKR)
+Islamabad,G-13,28.67,Triple Storey,6,1,0,1,2013,34974379
+Islamabad,G-11,26.39,Triple Storey,6,2,1,1,2000,21198316
+Islamabad,G-13,7.95,Double Storey,6,4,0,0,2021,26789768
+Islamabad,F-7,4.26,Triple Storey,4,4,0,1,2019,4239090
+Islamabad,G-11,21.37,Single Storey,3,4,0,1,2008,89652895
+Islamabad,F-6,3.43,Double Storey,5,4,0,1,2001,11531611
+Islamabad,G-11,27.55,Double Storey,5,2,1,1,2016,85299846
+Islamabad,Bahria Town,29.18,Double Storey,5,2,1,1,1998,96620229
+Islamabad,G-13,4.22,Single Storey,6,2,0,0,2018,9699095
+Islamabad,G-13,19.39,Single Storey,2,1,0,0,1995,16785397
+Islamabad,F-6,23.85,Triple Storey,4,3,0,1,1997,98231883
+Islamabad,G-11,5.0,Triple Storey,3,1,1,0,2003,17089260
+Islamabad,F-7,5.58,Triple Storey,6,3,1,1,2016,25256717
+Islamabad,F-6,13.34,Triple Storey,4,1,0,1,2017,53867749
+Islamabad,G-11,17.11,Triple Storey,3,2,1,0,2013,15946564
+Islamabad,F-6,11.49,Double Storey,6,3,0,0,2009,45653386
+Islamabad,G-13,28.46,Triple Storey,4,3,1,1,1996,97398288
+Islamabad,F-6,5.85,Double Storey,4,4,1,0,2022,13434237
+Islamabad,F-6,10.35,Triple Storey,2,4,0,0,1997,8582209
+Islamabad,G-11,14.27,Single Storey,2,3,1,1,2018,67928350
+Islamabad,F-6,13.9,Double Storey,2,2,1,1,2001,40149367
+Islamabad,F-6,7.0,Single Storey,4,1,1,1,2022,7113475
+Islamabad,Bahria Town,12.32,Single Storey,4,2,1,0,2006,33026092
+Islamabad,G-13,5.18,Triple Storey,2,3,1,1,1999,17900445
+Islamabad,G-11,25.04,Single Storey,2,4,0,1,2010,24320240
+Islamabad,G-13,11.8,Triple Storey,3,3,0,0,2014,41414763
+Islamabad,G-13,28.39,Triple Storey,3,4,0,0,2022,110377699
+Islamabad,F-7,27.97,Double Storey,3,3,0,1,2010,118378360
+Islamabad,F-6,16.95,Single Storey,3,1,1,1,2006,53304910
+Islamabad,G-11,8.1,Single Storey,4,3,1,1,1997,35612152
+Islamabad,F-6,20.33,Triple Storey,2,4,1,1,2002,68044551
+Islamabad,G-11,13.05,Single Storey,4,1,0,1,2008,40516098
+Islamabad,G-11,20.6,Single Storey,5,1,1,0,2008,44633581
+Islamabad,G-13,12.89,Triple Storey,4,1,1,0,2010,15383364
+Islamabad,G-11,20.18,Double Storey,6,3,1,1,2021,52961528
+Islamabad,Bahria Town,16.57,Triple Storey,2,1,1,0,2010,32796071
+Islamabad,G-11,23.75,Single Storey,5,4,1,0,2008,110257722
+Islamabad,G-11,23.19,Single Storey,6,1,1,0,1997,114034335
+Islamabad,G-13,10.95,Single Storey,2,4,0,1,2012,34367290
+Islamabad,F-7,28.11,Double Storey,3,4,0,1,2017,39026599
+Islamabad,G-11,10.97,Double Storey,2,4,0,0,2005,41438365
+Islamabad,Bahria Town,11.01,Double Storey,4,2,0,1,2007,12581078
+Islamabad,F-6,19.95,Single Storey,5,3,0,0,2022,64463089
+Islamabad,G-11,15.57,Triple Storey,6,2,1,1,2016,28820937
+Islamabad,F-7,25.21,Double Storey,4,4,0,0,2002,101696457
+Islamabad,G-13,29.06,Triple Storey,5,2,0,1,2014,73454566
+Islamabad,G-11,20.21,Single Storey,3,4,1,1,2013,83664994
+Islamabad,G-11,14.85,Triple Storey,3,1,1,0,2017,38593973
+Islamabad,G-13,14.04,Double Storey,3,1,0,1,2016,53370292
+Islamabad,Bahria Town,10.56,Single Storey,6,2,0,0,1997,19435364
+Islamabad,G-11,23.46,Single Storey,6,2,1,0,2009,22781090
+Islamabad,G-13,7.73,Double Storey,3,4,0,0,1998,11807171
+Islamabad,Bahria Town,13.76,Double Storey,6,4,1,1,2004,47177696
+Islamabad,F-7,16.53,Single Storey,6,4,1,1,2010,57824600
+Islamabad,F-6,26.41,Triple Storey,5,4,1,1,1997,92482815
+Islamabad,F-6,24.9,Triple Storey,6,4,0,0,1995,88052277
+Islamabad,G-11,8.29,Single Storey,5,3,1,1,2013,28158363
+Islamabad,F-6,20.7,Single Storey,3,2,1,1,1996,39224782
+Islamabad,G-13,21.71,Double Storey,6,3,0,1,1998,55477155
+Islamabad,Bahria Town,10.61,Double Storey,6,1,1,1,1997,52626890
+Islamabad,G-13,13.04,Triple Storey,6,4,0,0,2007,50955322
+Islamabad,G-11,5.78,Single Storey,2,2,1,1,2019,12393524
+Islamabad,G-11,5.7,Single Storey,2,3,1,0,2001,27465813
+Islamabad,G-13,18.48,Triple Storey,6,1,0,1,2019,57760216
+Islamabad,Bahria Town,23.31,Triple Storey,2,3,0,0,2004,114028848
+Islamabad,F-7,14.92,Triple Storey,6,3,0,1,2009,20896430
+Islamabad,F-7,25.6,Single Storey,6,2,0,1,2007,44411416
+Islamabad,F-6,25.19,Double Storey,3,1,0,0,2000,124536494
+Islamabad,Bahria Town,13.01,Single Storey,2,1,1,1,2000,49104436
+Islamabad,G-11,23.98,Double Storey,4,2,1,0,2001,62940251
+Islamabad,Bahria Town,3.31,Double Storey,3,4,1,1,2003,12994030
+Islamabad,G-11,18.75,Double Storey,2,3,1,0,2019,83402181
+Islamabad,Bahria Town,29.01,Single Storey,6,1,0,0,2010,87504158
+Islamabad,G-11,27.82,Triple Storey,4,4,0,1,2009,95797454
+Islamabad,F-6,19.94,Double Storey,4,4,0,0,2005,39482105
+Islamabad,G-13,5.88,Single Storey,3,4,1,1,2002,13430386
+Islamabad,F-7,10.18,Single Storey,2,4,1,0,2016,9525700
+Islamabad,F-6,11.36,Single Storey,5,4,0,0,2008,12723672
+Islamabad,F-7,14.25,Single Storey,2,2,1,1,2012,44412534
+Islamabad,Bahria Town,3.71,Single Storey,2,2,1,0,2011,8838346
+Islamabad,F-7,13.28,Double Storey,4,3,0,0,1995,36765829
+Islamabad,G-11,6.61,Single Storey,5,1,0,0,1999,32956631
+Islamabad,Bahria Town,18.8,Single Storey,6,2,1,0,2011,34076058
+Islamabad,F-6,6.49,Triple Storey,6,1,1,1,1995,23501217
+Islamabad,F-7,12.67,Triple Storey,3,2,1,1,2016,54376602
+Islamabad,F-7,26.01,Double Storey,5,1,1,1,2021,64885275
+Islamabad,Bahria Town,19.75,Double Storey,4,3,0,1,2022,97129383
+Islamabad,F-7,18.93,Double Storey,4,3,0,1,2014,58669266
+Islamabad,F-6,24.16,Double Storey,3,3,0,0,1998,65938839
+Islamabad,F-6,16.29,Single Storey,3,2,0,1,2007,27340310
+Islamabad,G-11,9.48,Triple Storey,2,3,0,1,2005,13111542
+Islamabad,G-13,7.91,Single Storey,4,4,0,0,2012,26325497
+Islamabad,G-11,4.1,Single Storey,3,4,1,0,2016,4807457
+Islamabad,F-6,17.43,Double Storey,3,1,1,1,2007,37485787
+Islamabad,F-7,24.58,Single Storey,4,3,1,0,2011,48247740
+Islamabad,F-6,5.28,Triple Storey,6,4,0,0,2018,14968781
+Islamabad,F-7,23.52,Double Storey,3,1,1,1,2021,43752731
+Islamabad,G-11,27.17,Double Storey,4,3,1,0,2012,72792014
+Islamabad,G-11,13.72,Single Storey,6,4,1,0,2019,59421072
+Islamabad,F-7,17.45,Single Storey,2,1,1,0,1998,39985594
+Lahore,DHA,16.46,Triple Storey,5,3,1,1,2009,64701721
+Lahore,DHA,18.24,Double Storey,2,1,1,1,2020,61135590
+Lahore,Model Town,12.61,Single Storey,6,1,0,0,2016,22022075
+Lahore,Johar Town,25.97,Double Storey,2,3,0,0,2002,96796374
+Lahore,Gulberg,18.55,Triple Storey,5,3,1,1,2011,53074237
+Lahore,Model Town,25.16,Double Storey,4,4,1,0,2007,101441857
+Lahore,Gulberg,11.74,Triple Storey,5,1,1,0,2006,15054374
+Lahore,Gulberg,23.73,Double Storey,6,2,0,0,1998,50941124
+Lahore,Model Town,4.4,Double Storey,3,1,0,1,2006,7247978
+Lahore,Gulberg,5.37,Triple Storey,6,1,0,0,2005,14967790
+Lahore,Model Town,12.42,Single Storey,6,2,1,1,2012,16419840
+Lahore,Model Town,28.34,Triple Storey,4,1,1,1,2016,28396609
+Lahore,Bahria Town,6.77,Single Storey,6,2,1,1,1997,10086733
+Lahore,Bahria Town,9.36,Double Storey,3,2,1,0,2007,30615512
+Lahore,Gulberg,25.05,Triple Storey,4,1,1,0,2017,66200327
+Lahore,DHA,9.27,Single Storey,3,2,0,1,2002,31720082
+Lahore,Model Town,14.65,Triple Storey,4,4,1,1,2014,60576369
+Lahore,Bahria Town,16.38,Double Storey,4,4,0,1,2019,34549231
+Lahore,Bahria Town,24.02,Single Storey,5,2,1,1,1999,107667624
+Lahore,DHA,5.78,Single Storey,5,1,1,1,2018,16817551
+Lahore,Bahria Town,16.13,Single Storey,3,3,0,0,2013,51214928
+Lahore,Gulberg,9.8,Single Storey,5,3,1,1,2002,31852406
+Lahore,Gulberg,28.58,Double Storey,6,4,1,1,2019,53595080
+Lahore,Johar Town,19.01,Single Storey,6,4,0,1,2011,61220015
+Lahore,Gulberg,4.86,Triple Storey,6,2,1,0,2016,22476926
+Lahore,DHA,6.06,Single Storey,3,2,1,1,2017,28285267
+Lahore,Model Town,18.96,Single Storey,2,1,0,1,2014,77901284
+Lahore,Gulberg,12.0,Triple Storey,5,1,1,0,2000,27055838
+Lahore,Gulberg,15.98,Triple Storey,2,4,0,0,2006,74044092
+Lahore,DHA,16.46,Double Storey,6,4,0,0,2005,56877694
+Lahore,Johar Town,8.74,Single Storey,2,4,0,0,2014,22212022
+Lahore,Johar Town,17.45,Single Storey,2,4,0,1,2017,45239358
+Lahore,Model Town,12.43,Double Storey,6,1,0,0,2010,39432096
+Lahore,Gulberg,10.94,Triple Storey,3,2,1,1,2011,27166261
+Lahore,Model Town,7.19,Single Storey,6,3,0,0,2004,13927947
+Lahore,Gulberg,14.04,Triple Storey,5,4,1,0,2002,12829796
+Lahore,Model Town,9.24,Triple Storey,6,4,1,0,2009,29490964
+Lahore,Model Town,20.62,Triple Storey,3,3,1,1,2008,68735307
+Lahore,Model Town,28.99,Single Storey,6,2,0,0,2010,33775815
+Lahore,Gulberg,5.31,Triple Storey,6,3,1,0,2013,17250992
+Lahore,Johar Town,22.01,Single Storey,6,4,0,1,1996,51169919
+Lahore,Johar Town,25.43,Single Storey,2,2,0,1,1997,121644503
+Lahore,Johar Town,6.78,Double Storey,4,2,0,1,2011,19228548
+Lahore,DHA,10.25,Double Storey,6,1,0,0,2016,35969581
+Lahore,Johar Town,6.57,Single Storey,6,2,0,0,2005,27954379
+Lahore,Bahria Town,25.01,Single Storey,3,1,0,0,2000,107165738
+Lahore,Bahria Town,3.3,Single Storey,4,1,0,1,2021,10920145
+Lahore,Johar Town,20.09,Single Storey,3,1,0,1,2015,48400462
+Lahore,Gulberg,14.39,Double Storey,5,2,0,0,2013,16971785
+Lahore,Model Town,9.62,Single Storey,4,4,0,1,1998,36748330
+Lahore,Model Town,28.63,Triple Storey,6,4,0,1,1998,87817934
+Lahore,Model Town,19.07,Triple Storey,2,2,0,0,2005,42026930
+Lahore,Gulberg,15.8,Single Storey,2,4,0,0,2019,59418859
+Lahore,Gulberg,15.41,Triple Storey,4,2,0,1,2006,74959439
+Lahore,Gulberg,5.78,Single Storey,5,3,0,0,2011,27691962
+Lahore,DHA,8.0,Double Storey,4,4,0,0,2011,28535121
+Lahore,DHA,27.39,Triple Storey,4,2,0,0,2020,26447581
+Lahore,Gulberg,18.88,Single Storey,3,1,1,1,2001,17795780
+Lahore,Bahria Town,22.74,Triple Storey,3,3,0,0,2012,89351624
+Lahore,Johar Town,25.8,Double Storey,4,2,0,0,2008,85251804
+Lahore,Model Town,18.14,Single Storey,3,3,0,0,2002,48113358
+Lahore,Johar Town,18.46,Single Storey,5,1,1,0,2007,63294610
+Lahore,Bahria Town,19.63,Double Storey,3,3,0,1,1996,17457577
+Lahore,Bahria Town,17.28,Triple Storey,4,3,1,1,2011,42994537
+Lahore,Bahria Town,15.95,Triple Storey,2,2,1,0,2001,47763560
+Lahore,DHA,9.45,Triple Storey,6,2,1,1,2012,19320469
+Lahore,Bahria Town,4.14,Single Storey,6,2,0,0,2009,9994671
+Lahore,Johar Town,8.89,Double Storey,6,1,0,0,2022,22703631
+Lahore,Model Town,27.4,Double Storey,2,3,1,1,2021,68133853
+Lahore,Bahria Town,20.54,Single Storey,4,1,1,1,2005,31660720
+Lahore,Gulberg,3.99,Double Storey,4,4,1,0,1999,13745818
+Lahore,DHA,16.99,Double Storey,2,1,0,1,1997,67698381
+Lahore,DHA,7.16,Triple Storey,6,4,0,0,2019,23558889
+Lahore,Bahria Town,5.47,Single Storey,4,3,1,0,2003,5395509
+Lahore,Gulberg,26.28,Single Storey,2,1,0,0,1996,66107431
+Lahore,Model Town,22.53,Double Storey,3,2,0,1,2010,82678043
+Lahore,Bahria Town,29.77,Double Storey,6,4,1,0,2013,126929159
+Lahore,Gulberg,17.68,Single Storey,6,1,1,1,2013,78610148
+Lahore,Johar Town,25.97,Triple Storey,2,1,0,0,2019,122224674
+Lahore,Johar Town,19.7,Double Storey,5,3,0,0,2007,87896333
+Lahore,Model Town,26.73,Double Storey,3,4,0,0,2001,39431870
+Lahore,Johar Town,18.02,Single Storey,6,4,0,1,2007,61107496
+Lahore,DHA,18.12,Triple Storey,3,4,1,1,2007,73845353
+Lahore,Model Town,23.55,Double Storey,2,4,1,0,2022,81412631
+Lahore,Bahria Town,5.77,Double Storey,5,3,1,0,2006,6248174
+Lahore,Gulberg,15.79,Double Storey,3,4,0,1,2012,78296659
+Lahore,Bahria Town,15.04,Triple Storey,4,4,0,1,2001,16177472
+Lahore,DHA,11.74,Triple Storey,4,3,1,0,2020,17228928
+Lahore,Gulberg,29.92,Single Storey,4,1,0,0,2009,123814947
+Lahore,Bahria Town,11.06,Double Storey,5,2,0,0,1997,53017514
+Lahore,Johar Town,3.85,Single Storey,6,3,1,0,2021,18676296
+Lahore,Model Town,10.4,Triple Storey,4,1,1,1,2000,18364417
+Lahore,Bahria Town,8.41,Single Storey,2,4,1,1,2009,23383469
+Lahore,Model Town,29.14,Double Storey,2,1,0,0,2002,117663582
+Lahore,Gulberg,23.55,Triple Storey,6,4,1,0,2018,109921060
+Lahore,Model Town,8.01,Triple Storey,2,2,1,0,2011,26839003
+Lahore,Johar Town,14.62,Double Storey,2,4,0,1,2016,31709127
+Lahore,Gulberg,24.53,Triple Storey,6,1,1,0,2012,89728724
+Lahore,Gulberg,15.96,Triple Storey,4,1,0,0,2022,65042971
+Lahore,Model Town,15.97,Single Storey,2,4,0,1,2009,46238424
+Karachi,North Nazimabad,21.97,Double Storey,3,4,0,1,1995,25683793
+Karachi,Bahria Town,5.23,Single Storey,5,2,1,0,1996,25655026
+Karachi,Clifton,21.62,Double Storey,3,2,0,1,2011,103700543
+Karachi,Bahria Town,22.07,Double Storey,2,2,0,0,2003,83381655
+Karachi,Clifton,19.88,Double Storey,4,3,0,0,2014,62077409
+Karachi,Clifton,24.16,Triple Storey,4,3,0,1,2004,63834351
+Karachi,Clifton,4.63,Triple Storey,5,1,0,0,2013,7966835
+Karachi,North Nazimabad,23.1,Single Storey,6,3,1,0,2006,72361371
+Karachi,Clifton,20.64,Single Storey,2,3,0,1,2004,51469920
+Karachi,Bahria Town,4.95,Triple Storey,2,3,1,0,2015,19077844
+Karachi,Bahria Town,25.85,Single Storey,5,4,1,1,2014,75491008
+Karachi,Clifton,26.41,Single Storey,5,2,0,1,1998,118009852
+Karachi,Clifton,24.41,Triple Storey,3,3,0,1,2016,56348881
+Karachi,Gulshan-e-Iqbal,19.82,Single Storey,2,3,1,1,1998,91527503
+Karachi,Clifton,9.41,Double Storey,3,3,0,0,2000,26983805
+Karachi,North Nazimabad,13.94,Double Storey,2,4,1,0,2000,49332511
+Karachi,DHA,29.17,Double Storey,4,1,0,0,1995,118097286
+Karachi,North Nazimabad,29.19,Triple Storey,4,2,0,1,2008,63918374
+Karachi,Bahria Town,12.1,Double Storey,2,1,0,1,2002,41043308
+Karachi,DHA,9.82,Double Storey,5,4,0,0,1999,22569056
+Karachi,North Nazimabad,15.82,Single Storey,5,4,1,0,2009,49741070
+Karachi,Gulshan-e-Iqbal,6.02,Double Storey,3,1,0,0,2014,6123102
+Karachi,DHA,6.3,Double Storey,6,1,0,0,1995,18461433
+Karachi,North Nazimabad,7.01,Single Storey,3,4,0,0,1996,15121612
+Karachi,Bahria Town,26.43,Triple Storey,4,2,0,1,2000,36646127
+Karachi,Bahria Town,6.88,Double Storey,3,4,0,1,2012,10946535
+Karachi,Bahria Town,14.98,Single Storey,3,1,0,0,2020,35533255
+Karachi,Clifton,9.59,Double Storey,2,4,0,1,2019,35444758
+Karachi,DHA,19.22,Triple Storey,6,4,0,0,2020,43514260
+Karachi,Clifton,29.98,Double Storey,2,1,0,0,2010,118726694
+Karachi,Bahria Town,18.31,Single Storey,4,4,1,0,2000,39797504
+Karachi,Gulshan-e-Iqbal,24.81,Double Storey,6,1,0,0,2007,105067960
+Karachi,DHA,11.87,Single Storey,5,2,0,0,2015,28461443
+Karachi,Bahria Town,15.11,Single Storey,2,3,1,1,2020,49344110
+Karachi,Clifton,23.5,Single Storey,4,1,1,1,2010,102415418
+Karachi,North Nazimabad,3.69,Double Storey,2,4,0,1,2010,11943511
+Karachi,North Nazimabad,15.87,Triple Storey,3,4,0,0,2007,67511810
+Karachi,Gulshan-e-Iqbal,3.2,Triple Storey,6,4,0,0,1998,15019344
+Karachi,North Nazimabad,28.23,Double Storey,4,2,1,0,1998,53028970
+Karachi,North Nazimabad,21.09,Single Storey,5,3,1,1,2004,70934145
+Karachi,Clifton,13.8,Single Storey,5,2,0,1,2005,18181985
+Karachi,North Nazimabad,7.9,Single Storey,2,2,0,1,2018,38269913
+Karachi,North Nazimabad,5.35,Double Storey,2,4,1,0,2004,6803478
+Karachi,Bahria Town,19.24,Double Storey,6,2,1,0,2020,32526919
+Karachi,Clifton,7.72,Single Storey,6,2,1,1,2010,24224399
+Karachi,Gulshan-e-Iqbal,24.07,Double Storey,4,4,1,0,2004,101094623
+Karachi,Gulshan-e-Iqbal,19.84,Single Storey,3,1,0,0,1997,88305666
+Karachi,DHA,8.85,Single Storey,6,3,0,1,2001,27400742
+Karachi,Clifton,9.94,Single Storey,6,1,1,0,1996,19413506
+Karachi,Bahria Town,21.25,Double Storey,6,3,0,0,2005,105469597
+Karachi,North Nazimabad,25.11,Double Storey,3,4,0,0,2008,48024403
+Karachi,Bahria Town,27.14,Triple Storey,2,4,0,0,2000,62177318
+Karachi,North Nazimabad,14.95,Double Storey,5,1,1,0,2015,28985347
+Karachi,Clifton,21.36,Single Storey,3,3,1,1,1996,106274230
+Karachi,Clifton,12.8,Triple Storey,3,3,1,1,2002,41446336
+Karachi,Clifton,28.86,Single Storey,6,3,0,0,2017,88036745
+Karachi,DHA,25.19,Single Storey,5,4,1,0,2010,60622515
+Karachi,North Nazimabad,29.3,Double Storey,6,4,1,1,2006,53424395
+Karachi,Bahria Town,5.51,Double Storey,3,4,0,1,1995,18489592
+Karachi,North Nazimabad,24.11,Double Storey,6,2,1,0,2017,45931305
+Karachi,Clifton,13.28,Double Storey,4,1,0,0,2005,56655157
+Karachi,Clifton,19.22,Triple Storey,4,2,0,0,2016,61112229
+Karachi,North Nazimabad,8.63,Triple Storey,2,2,1,1,2007,20700071
+Karachi,Clifton,26.44,Double Storey,4,4,0,1,2008,30137924
+Karachi,Bahria Town,3.62,Triple Storey,3,3,1,1,2014,11608521
+Karachi,Clifton,25.21,Single Storey,6,2,0,1,2008,34906565
+Karachi,Bahria Town,11.57,Triple Storey,2,2,0,0,2015,15172898
+Karachi,Bahria Town,3.7,Single Storey,5,1,1,1,2022,7805622
+Karachi,North Nazimabad,14.87,Triple Storey,6,3,1,1,2022,34679107
+Karachi,Gulshan-e-Iqbal,18.24,Double Storey,3,1,1,1,2005,72373855
+Karachi,DHA,14.62,Single Storey,4,1,0,1,2008,17900616
+Karachi,North Nazimabad,19.69,Triple Storey,2,1,0,1,2014,30120992
+Karachi,North Nazimabad,17.23,Triple Storey,3,3,0,1,1997,40397273
+Karachi,North Nazimabad,16.0,Triple Storey,6,1,1,0,2017,40765548
+Karachi,Gulshan-e-Iqbal,14.3,Double Storey,6,2,0,1,2018,43590726
+Karachi,DHA,11.73,Double Storey,3,1,0,0,2012,12567405
+Karachi,North Nazimabad,13.03,Single Storey,5,3,0,0,2014,24982171
+Karachi,Bahria Town,16.18,Double Storey,5,4,1,1,2002,68034972
+Karachi,Bahria Town,13.65,Double Storey,3,1,1,0,2011,65689337
+Karachi,DHA,20.78,Single Storey,2,2,1,1,1995,90011907
+Karachi,Clifton,9.83,Single Storey,5,3,0,1,2002,44819831
+Karachi,DHA,19.58,Triple Storey,6,3,0,1,2006,57787081
+Karachi,Bahria Town,4.29,Single Storey,4,1,0,0,2018,5330512
+Karachi,DHA,28.83,Single Storey,3,3,1,1,2005,140608229
+Karachi,Gulshan-e-Iqbal,20.86,Triple Storey,4,2,0,0,2016,83656217
+Karachi,Clifton,3.57,Single Storey,2,1,1,0,2012,3012352
+Karachi,North Nazimabad,19.61,Double Storey,2,1,0,1,2017,19143186
+Karachi,Clifton,11.7,Triple Storey,3,2,0,0,2010,49250367
+Karachi,North Nazimabad,7.23,Double Storey,2,4,1,0,2003,17085223
+Karachi,Gulshan-e-Iqbal,17.85,Double Storey,2,2,1,1,2014,23388958
+Karachi,Gulshan-e-Iqbal,26.95,Single Storey,4,2,1,1,2017,121084419
+Karachi,North Nazimabad,27.81,Double Storey,6,1,1,0,2002,109638311
+Karachi,North Nazimabad,4.45,Double Storey,4,1,1,1,2007,6640388
+Karachi,Bahria Town,21.5,Triple Storey,3,3,0,0,2017,93115483
+Karachi,Bahria Town,14.16,Single Storey,6,1,1,0,2016,44930987
+Karachi,Bahria Town,5.53,Triple Storey,2,4,0,0,2002,15144133
+Karachi,DHA,23.03,Triple Storey,2,4,1,0,2004,82027178
+Karachi,DHA,17.99,Double Storey,4,3,1,0,2010,73613739
+Karachi,North Nazimabad,17.15,Double Storey,3,2,1,1,2011,14514607
+Karachi,DHA,28.87,Single Storey,5,3,1,0,2017,80124066
